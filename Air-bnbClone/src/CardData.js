@@ -2,6 +2,8 @@ export default [
     {
         id:"01",
         imageUrl: "",
+        secondimg: "",
+        
         location: "Salobrena, Spain",
         rating: "4.8",
         distance: "3,443 Kilometers",
@@ -12,6 +14,7 @@ export default [
     {
         id:"02",
         imageUrl: "",
+        secondimg: "",
         location: "El,Port de la Selva Spain",
         rating: "4.8",
         distance: "3,991 Kilometers",
@@ -22,6 +25,7 @@ export default [
     {
         id:"03",
         imageUrl: "",
+        secondimg: "",
         location: "Ponta Delgada, Portugal",
         rating: "4.8",
         distance: "4,564 Kilometers",
@@ -32,6 +36,7 @@ export default [
     {
         id:"04",
         imageUrl: "",
+        secondimg: "",
         location: "Jochnery, France",
         rating: "4.8",
         distance: "4,582 Kilometers",
@@ -42,6 +47,7 @@ export default [
     {
         id:"05",
         imageUrl: "",
+        secondimg: "",
         location: "Guyonvelle, France",
         rating: "4.8",
         distance: "3,443 Kilometers",
@@ -52,6 +58,7 @@ export default [
     {
         id:"06",
         imageUrl: "",
+        secondimg: "",
         location: "Caylus, France",
         rating: "4.8",
         distance: "3,443 Kilometers",
